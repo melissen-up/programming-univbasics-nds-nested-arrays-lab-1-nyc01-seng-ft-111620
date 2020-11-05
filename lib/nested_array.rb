@@ -41,8 +41,8 @@ def sorted_matrix
       "Asparagus"
       ]
     ]
-  produce.
-  
+  produce[0].sort
+  produc[1].sort  
   
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
