@@ -46,7 +46,8 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  matrix = 
+  matrix = assembled_matrix
+  row = assembled_matrix[] ||
   
   
   # Given any matrix (array of arrays), a row index and a column index, 
